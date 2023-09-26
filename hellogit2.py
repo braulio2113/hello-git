@@ -1,1 +1,1 @@
-print('Archivo 2')
+print('Nuevo mensaje Archivo 2')
